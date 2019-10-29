@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: asianwallet-isearch
+  profiles:
+    active: local
+  main:
+    allow-bean-definition-overriding: true
+
+
+#==================== 日志  ============================
+logging:
+  config: classpath:logback.xml

@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: asianwallet-task
+  profiles:
+    active: @profileActive@
+  main:
+    allow-bean-definition-overriding: true
+
+#==================== 日志  ============================
+logging:
+  config: classpath:logback.xml

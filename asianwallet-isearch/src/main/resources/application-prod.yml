@@ -1,0 +1,18 @@
+server:
+  port: 9200
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://192.168.124.7:27017/admin
+  #文件上传文件大小的设置
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 5MB
+
+file:
+  upload:
+    path: C:\apache-tomcat-8.5.38\webapps
+  tmpfile: C:\apache-tomcat-8.5.38\webapps\tmp
+

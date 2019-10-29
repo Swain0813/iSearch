@@ -1,0 +1,14 @@
+server:
+  port: 9201
+
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://192.168.124.7:27017/admin
+
+#项目自定义配置
+getinfo:
+  newstime: 0 */15 * * * ?
+  #newstime: 0/10 * * * * ?
+

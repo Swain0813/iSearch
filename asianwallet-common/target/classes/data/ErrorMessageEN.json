@@ -1,0 +1,16 @@
+{
+
+  "50000": "The server is busy, please try again later",
+  "50001": "The user is not logged in",
+  "50002": "The input parameter cannot be null",
+  "52002": "Service internal error",
+  "52003": "Signature mismatch",
+  "52004": "Incorrect user name or password",
+
+  "10000": "Mobile number is registered",
+  "10001": "The mailbox is registered",
+  "10002": "User does not exist",
+  "10003": "Wrong password",
+  "10004": "User name has been registered"
+
+}

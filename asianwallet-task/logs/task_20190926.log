@@ -1,0 +1,778 @@
+2019-09-26 11:29:21,458 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 6408 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 11:29:21,467 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 11:29:32,312 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[192.168.124.7:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 11:29:32,506 [cluster-ClusterId{value='5d8c309ca1a42f19084ac6a8', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:149}] to 192.168.124.7:27017
+2019-09-26 11:29:32,517 [cluster-ClusterId{value='5d8c309ca1a42f19084ac6a8', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=192.168.124.7:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=7600500}
+2019-09-26 11:29:38,806 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 18.735 seconds (JVM running for 21.883)
+2019-09-26 11:29:38,811 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 11:29:39,800 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:150}] to 192.168.124.7:27017
+2019-09-26 11:29:39,943 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:150}] to 192.168.124.7:27017 because the pool has been closed.
+2019-09-26 11:30:35,065 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 1536 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 11:30:35,076 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 11:30:43,853 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[192.168.124.7:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 11:30:44,002 [cluster-ClusterId{value='5d8c30e3a1a42f0600c84bd1', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:155}] to 192.168.124.7:27017
+2019-09-26 11:30:44,016 [cluster-ClusterId{value='5d8c30e3a1a42f0600c84bd1', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=192.168.124.7:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11576100}
+2019-09-26 11:30:48,332 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.416 seconds (JVM running for 16.599)
+2019-09-26 11:30:48,339 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 11:30:49,270 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:156}] to 192.168.124.7:27017
+2019-09-26 11:30:49,371 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:156}] to 192.168.124.7:27017 because the pool has been closed.
+2019-09-26 11:42:32,318 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 568 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 11:42:32,385 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 11:42:41,674 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[192.168.124.7:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 11:42:41,844 [cluster-ClusterId{value='5d8c33b1a1a42f0238745e2c', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:163}] to 192.168.124.7:27017
+2019-09-26 11:42:41,863 [cluster-ClusterId{value='5d8c33b1a1a42f0238745e2c', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=192.168.124.7:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=9690700}
+2019-09-26 11:42:47,440 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 16.281 seconds (JVM running for 18.618)
+2019-09-26 11:42:47,445 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 11:42:48,282 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:164}] to 192.168.124.7:27017
+2019-09-26 11:42:48,411 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:164}] to 192.168.124.7:27017 because the pool has been closed.
+2019-09-26 11:49:08,240 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 8896 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 11:49:08,246 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 11:49:16,540 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[192.168.124.7:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 11:49:16,692 [cluster-ClusterId{value='5d8c353ca1a42f22c06ac0a5', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:169}] to 192.168.124.7:27017
+2019-09-26 11:49:16,701 [cluster-ClusterId{value='5d8c353ca1a42f22c06ac0a5', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=192.168.124.7:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=6414000}
+2019-09-26 11:49:21,353 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.255 seconds (JVM running for 16.512)
+2019-09-26 11:49:21,357 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 11:49:22,427 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:170}] to 192.168.124.7:27017
+2019-09-26 11:49:22,552 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:170}] to 192.168.124.7:27017 because the pool has been closed.
+2019-09-26 14:01:23,372 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-OHOPI3S with PID 32020 (started by ThinkPad in C:\Users\ThinkPad\Desktop\iSearch\asianwallet-task)
+2019-09-26 14:01:23,379 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 14:01:26,599 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[192.168.124.7:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 14:01:26,734 [cluster-ClusterId{value='5d8c54360df84c7d1464ee08', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:196}] to 192.168.124.7:27017
+2019-09-26 14:01:26,750 [cluster-ClusterId{value='5d8c54360df84c7d1464ee08', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=192.168.124.7:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11572883}
+2019-09-26 14:01:30,115 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 7.382 seconds (JVM running for 9.214)
+2019-09-26 14:01:30,119 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 14:05:34,749 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-OHOPI3S with PID 42180 (started by ThinkPad in C:\Users\ThinkPad\Desktop\iSearch\asianwallet-task)
+2019-09-26 14:05:34,757 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 14:05:37,935 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[192.168.124.7:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 14:05:38,129 [cluster-ClusterId{value='5d8c55310df84ca4c40459f5', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:205}] to 192.168.124.7:27017
+2019-09-26 14:05:38,142 [cluster-ClusterId{value='5d8c55310df84ca4c40459f5', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=192.168.124.7:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=10835605}
+2019-09-26 14:05:41,632 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 7.525 seconds (JVM running for 9.255)
+2019-09-26 14:05:41,636 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 14:05:44,243 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:206}] to 192.168.124.7:27017
+2019-09-26 14:05:44,347 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:206}] to 192.168.124.7:27017 because the pool has been closed.
+2019-09-26 14:43:37,551 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 14856 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 14:43:37,558 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 14:43:45,517 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[192.168.124.7:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 14:43:45,679 [cluster-ClusterId{value='5d8c5e21a1a42f3a08d02413', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:250}] to 192.168.124.7:27017
+2019-09-26 14:43:45,692 [cluster-ClusterId{value='5d8c5e21a1a42f3a08d02413', description='null'}-192.168.124.7:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=192.168.124.7:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=9822900}
+2019-09-26 14:43:50,331 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 13.564 seconds (JVM running for 17.238)
+2019-09-26 14:43:50,341 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 14:43:51,274 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:251}] to 192.168.124.7:27017
+2019-09-26 14:43:51,351 [main] INFO  com.asianwallets.task.service.nbd.impl.NbdServiceImpl - ============= 抓取每经网公司模块 ============ ,前次最后一条记录为：【2019-09-26 14:12:18】
+2019-09-26 14:43:51,406 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:251}] to 192.168.124.7:27017 because the pool has been closed.
+2019-09-26 14:48:21,676 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 9588 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 14:48:21,716 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 14:48:30,158 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 14:48:30,320 [cluster-ClusterId{value='5d8c5f3ea1a42f2574db9a2f', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:5}] to localhost:27017
+2019-09-26 14:48:30,331 [cluster-ClusterId{value='5d8c5f3ea1a42f2574db9a2f', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=7567800}
+2019-09-26 14:48:37,129 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 16.813 seconds (JVM running for 19.53)
+2019-09-26 14:48:37,141 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 14:48:39,629 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:6}] to localhost:27017
+2019-09-26 14:48:40,175 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:6}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:06:01,888 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 10204 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:06:01,897 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:06:10,223 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:06:10,370 [cluster-ClusterId{value='5d8c7172a1a42f27dc5cf016', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:9}] to localhost:27017
+2019-09-26 16:06:10,378 [cluster-ClusterId{value='5d8c7172a1a42f27dc5cf016', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5183500}
+2019-09-26 16:06:14,911 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.032 seconds (JVM running for 16.27)
+2019-09-26 16:06:14,917 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:06:15,937 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:10}] to localhost:27017
+2019-09-26 16:06:16,223 [main] ERROR com.asianwallets.common.utils.DateToolUtils - [DateToolUtils异常]-{}
+java.text.ParseException: Unparseable date: "播出时间：2019-09-26 15:"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.asianwallets.common.utils.DateToolUtils.getDateByStr(DateToolUtils.java:1278)
+	at com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl.grab(YiCaiServiceImpl.java:73)
+	at com.asianwallets.task.ISearchTaskApplicationTests.grab(ISearchTaskApplicationTests.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-09-26 16:06:16,569 [main] ERROR com.asianwallets.common.utils.DateToolUtils - [DateToolUtils异常]-{}
+java.text.ParseException: Unparseable date: "播出时间：2019-09-26 15:"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.asianwallets.common.utils.DateToolUtils.getDateByStr(DateToolUtils.java:1278)
+	at com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl.grab(YiCaiServiceImpl.java:73)
+	at com.asianwallets.task.ISearchTaskApplicationTests.grab(ISearchTaskApplicationTests.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-09-26 16:06:16,993 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:10}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:08:19,137 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 14992 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:08:19,144 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:08:27,262 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:08:27,397 [cluster-ClusterId{value='5d8c71fba1a42f3a90fd032a', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:13}] to localhost:27017
+2019-09-26 16:08:27,405 [cluster-ClusterId{value='5d8c71fba1a42f3a90fd032a', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4826500}
+2019-09-26 16:08:31,824 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 13.75 seconds (JVM running for 15.929)
+2019-09-26 16:08:31,829 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:08:32,958 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:14}] to localhost:27017
+2019-09-26 16:08:33,064 [main] INFO  com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl - ============= 抓取第一财经 ============ ,前次最后一条记录为：【2019-09-26 15:58:00】
+2019-09-26 16:08:33,188 [main] ERROR com.asianwallets.common.utils.DateToolUtils - [DateToolUtils异常]-{}
+java.text.ParseException: Unparseable date: "播出时间：2019-09-26 15:"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.asianwallets.common.utils.DateToolUtils.getDateByStr(DateToolUtils.java:1278)
+	at com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl.grab(YiCaiServiceImpl.java:74)
+	at com.asianwallets.task.ISearchTaskApplicationTests.grab(ISearchTaskApplicationTests.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-09-26 16:08:33,358 [main] ERROR com.asianwallets.common.utils.DateToolUtils - [DateToolUtils异常]-{}
+java.text.ParseException: Unparseable date: "播出时间：2019-09-26 15:"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.asianwallets.common.utils.DateToolUtils.getDateByStr(DateToolUtils.java:1278)
+	at com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl.grab(YiCaiServiceImpl.java:74)
+	at com.asianwallets.task.ISearchTaskApplicationTests.grab(ISearchTaskApplicationTests.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-09-26 16:08:33,730 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:14}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:09:30,238 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 2724 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:09:30,245 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:09:39,648 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:09:39,831 [cluster-ClusterId{value='5d8c7243a1a42f0aa4a0f7f6', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:15}] to localhost:27017
+2019-09-26 16:09:39,840 [cluster-ClusterId{value='5d8c7243a1a42f0aa4a0f7f6', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=6462400}
+2019-09-26 16:09:47,093 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 17.614 seconds (JVM running for 21.63)
+2019-09-26 16:09:47,099 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:09:48,038 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:16}] to localhost:27017
+2019-09-26 16:09:48,232 [main] ERROR com.asianwallets.common.utils.DateToolUtils - [DateToolUtils异常]-{}
+java.text.ParseException: Unparseable date: "播出时间：2019-09-26 15:"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.asianwallets.common.utils.DateToolUtils.getDateByStr(DateToolUtils.java:1278)
+	at com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl.grab(YiCaiServiceImpl.java:74)
+	at com.asianwallets.task.ISearchTaskApplicationTests.grab(ISearchTaskApplicationTests.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-09-26 16:09:48,418 [main] ERROR com.asianwallets.common.utils.DateToolUtils - [DateToolUtils异常]-{}
+java.text.ParseException: Unparseable date: "播出时间：2019-09-26 15:"
+	at java.text.DateFormat.parse(DateFormat.java:366)
+	at com.asianwallets.common.utils.DateToolUtils.getDateByStr(DateToolUtils.java:1278)
+	at com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl.grab(YiCaiServiceImpl.java:74)
+	at com.asianwallets.task.ISearchTaskApplicationTests.grab(ISearchTaskApplicationTests.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestExecutionCallbacks.evaluate(RunBeforeTestExecutionCallbacks.java:74)
+	at org.springframework.test.context.junit4.statements.RunAfterTestExecutionCallbacks.evaluate(RunAfterTestExecutionCallbacks.java:84)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestMethodCallbacks.evaluate(RunBeforeTestMethodCallbacks.java:75)
+	at org.springframework.test.context.junit4.statements.RunAfterTestMethodCallbacks.evaluate(RunAfterTestMethodCallbacks.java:86)
+	at org.springframework.test.context.junit4.statements.SpringRepeat.evaluate(SpringRepeat.java:84)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:251)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.runChild(SpringJUnit4ClassRunner.java:97)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.springframework.test.context.junit4.statements.RunBeforeTestClassCallbacks.evaluate(RunBeforeTestClassCallbacks.java:61)
+	at org.springframework.test.context.junit4.statements.RunAfterTestClassCallbacks.evaluate(RunAfterTestClassCallbacks.java:70)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.run(SpringJUnit4ClassRunner.java:190)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2019-09-26 16:09:49,053 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:16}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:13:49,361 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 14256 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:13:49,369 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:13:57,584 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:13:57,721 [cluster-ClusterId{value='5d8c7345a1a42f37b0d8c1a5', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:17}] to localhost:27017
+2019-09-26 16:13:57,731 [cluster-ClusterId{value='5d8c7345a1a42f37b0d8c1a5', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5788300}
+2019-09-26 16:14:02,098 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 13.755 seconds (JVM running for 15.959)
+2019-09-26 16:14:02,104 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:14:03,178 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:18}] to localhost:27017
+2019-09-26 16:14:03,238 [main] INFO  com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl - ============= 抓取第一财经 ============ ,前次最后一条记录为：【2019-09-26 15:58:00】
+2019-09-26 16:14:04,098 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:18}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:14:31,689 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 1612 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:14:31,696 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:14:39,818 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:14:39,969 [cluster-ClusterId{value='5d8c736fa1a42f064c8f1707', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:21}] to localhost:27017
+2019-09-26 16:14:39,977 [cluster-ClusterId{value='5d8c736fa1a42f064c8f1707', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4753400}
+2019-09-26 16:14:44,560 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 13.885 seconds (JVM running for 16.011)
+2019-09-26 16:14:44,564 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:14:45,676 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:22}] to localhost:27017
+2019-09-26 16:14:46,756 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:22}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:15:13,364 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 9832 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:15:13,372 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:15:21,888 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:15:22,040 [cluster-ClusterId{value='5d8c7399a1a42f266813d3c9', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:25}] to localhost:27017
+2019-09-26 16:15:22,049 [cluster-ClusterId{value='5d8c7399a1a42f266813d3c9', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5584100}
+2019-09-26 16:15:26,993 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.706 seconds (JVM running for 16.906)
+2019-09-26 16:15:26,998 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:15:28,041 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:26}] to localhost:27017
+2019-09-26 16:15:28,100 [main] INFO  com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl - ============= 抓取第一财经 ============ ,前次最后一条记录为：【2019-09-26 15:58:00】
+2019-09-26 16:15:28,961 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:26}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:17:19,917 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 1364 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:17:19,922 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:17:28,736 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:17:28,904 [cluster-ClusterId{value='5d8c7418a1a42f0554fc48a4', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:29}] to localhost:27017
+2019-09-26 16:17:28,912 [cluster-ClusterId{value='5d8c7418a1a42f0554fc48a4', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5130700}
+2019-09-26 16:17:34,175 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 15.435 seconds (JVM running for 17.538)
+2019-09-26 16:17:34,181 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:17:35,270 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:30}] to localhost:27017
+2019-09-26 16:17:35,339 [main] INFO  com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl - ============= 抓取第一财经 ============ ,前次最后一条记录为：【2019-09-26 15:58:00】
+2019-09-26 16:17:35,436 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:30}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:19:40,159 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 12160 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:19:40,166 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:19:50,366 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:19:50,508 [cluster-ClusterId{value='5d8c74a6a1a42f2f80b4d3ca', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:31}] to localhost:27017
+2019-09-26 16:19:50,516 [cluster-ClusterId{value='5d8c74a6a1a42f2f80b4d3ca', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4795400}
+2019-09-26 16:19:54,934 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 15.582 seconds (JVM running for 18.488)
+2019-09-26 16:19:54,939 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:19:55,961 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:32}] to localhost:27017
+2019-09-26 16:19:57,000 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:32}] to localhost:27017 because the pool has been closed.
+2019-09-26 16:57:47,227 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 14840 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 16:57:47,233 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 16:57:55,420 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 16:57:55,593 [cluster-ClusterId{value='5d8c7d93a1a42f39f8b8c2c5', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:35}] to localhost:27017
+2019-09-26 16:57:55,602 [cluster-ClusterId{value='5d8c7d93a1a42f39f8b8c2c5', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5470300}
+2019-09-26 16:58:00,626 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.458 seconds (JVM running for 16.615)
+2019-09-26 16:58:00,633 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 16:58:01,672 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:36}] to localhost:27017
+2019-09-26 16:58:01,729 [main] INFO  com.asianwallets.task.service.yicai.impl.YiCaiServiceImpl - ============= 抓取第一财经 ============ ,前次最后一条记录为：【2019-09-26 15:58:00】
+2019-09-26 16:58:01,826 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:36}] to localhost:27017 because the pool has been closed.
+2019-09-26 17:12:52,063 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 2484 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 17:12:52,076 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 17:13:01,789 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 17:13:01,945 [cluster-ClusterId{value='5d8c811da1a42f09b464c284', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:37}] to localhost:27017
+2019-09-26 17:13:01,956 [cluster-ClusterId{value='5d8c811da1a42f09b464c284', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=7886200}
+2019-09-26 17:13:07,751 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 16.926 seconds (JVM running for 19.485)
+2019-09-26 17:13:07,757 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 17:13:08,244 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【行业资讯】，url:【http://www.cs.com.cn/cj/hyzx/】
+2019-09-26 17:13:08,597 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:38}] to localhost:27017
+2019-09-26 17:13:10,463 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【财经要闻】，url:【http://www.cs.com.cn/xwzx/hg/】
+2019-09-26 17:13:12,267 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司新闻】，url:【http://www.cs.com.cn/ssgs/gsxw/】
+2019-09-26 17:13:13,680 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司深度】，url:【http://www.cs.com.cn/ssgs/gssd/】
+2019-09-26 17:13:16,273 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:38}] to localhost:27017 because the pool has been closed.
+2019-09-26 17:14:30,717 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 2976 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 17:14:30,723 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 17:14:38,979 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 17:14:39,133 [cluster-ClusterId{value='5d8c817ea1a42f0ba0115b33', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:41}] to localhost:27017
+2019-09-26 17:14:39,143 [cluster-ClusterId{value='5d8c817ea1a42f0ba0115b33', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5650900}
+2019-09-26 17:14:43,695 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 13.956 seconds (JVM running for 16.107)
+2019-09-26 17:14:43,700 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 17:14:44,174 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【行业资讯】，url:【http://www.cs.com.cn/cj/hyzx/】
+2019-09-26 17:14:44,594 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:42}] to localhost:27017
+2019-09-26 17:14:45,709 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【财经要闻】，url:【http://www.cs.com.cn/xwzx/hg/】
+2019-09-26 17:14:48,149 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司新闻】，url:【http://www.cs.com.cn/ssgs/gsxw/】
+2019-09-26 17:14:50,131 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司深度】，url:【http://www.cs.com.cn/ssgs/gssd/】
+2019-09-26 17:14:53,611 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:42}] to localhost:27017 because the pool has been closed.
+2019-09-26 17:16:58,048 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 6576 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 17:16:58,054 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 17:17:06,477 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 17:17:06,627 [cluster-ClusterId{value='5d8c8212a1a42f19b01ecec8', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:43}] to localhost:27017
+2019-09-26 17:17:06,643 [cluster-ClusterId{value='5d8c8212a1a42f19b01ecec8', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5220500}
+2019-09-26 17:17:10,843 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 13.805 seconds (JVM running for 15.908)
+2019-09-26 17:17:10,848 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 17:17:11,259 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【行业资讯】，url:【http://www.cs.com.cn/cj/hyzx/】
+2019-09-26 17:17:11,580 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:44}] to localhost:27017
+2019-09-26 17:17:11,640 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【】
+2019-09-26 17:17:11,690 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 15:23</span><a href="./201909/t20190926_5987439.html" target="_blank">北京大兴国际机场线新机场线开通试运营 最高时速达160km/h</a></li>】
+2019-09-26 17:17:11,802 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 14:40</span><a href="./201909/t20190926_5987435.html" target="_blank">APEC绿色供应链优秀案例体验中心正式启动</a></li>】
+2019-09-26 17:17:11,845 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 14:34</span><a href="./201909/t20190926_5987434.html" target="_blank">《居住服务平台信用建设报告》在济南发布</a></li>】
+2019-09-26 17:17:11,906 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 12:13</span><a href="./201909/t20190926_5987415.html" target="_blank">APEC绿色供应链合作网络2019年年会暨能力建设研讨会在天津举行</a></li>】
+2019-09-26 17:17:11,942 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:11</span><a href="../../ssgs/gsxw/201909/t20190926_5987315.html" target="_blank">制度优化 “筑底”渐成 并购重组市场有望加速回暖</a></li>】
+2019-09-26 17:17:12,011 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987276.html" target="_blank">成都出台推动体育产业发展政策：建设世界赛事名城</a></li>】
+2019-09-26 17:17:12,078 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987275.html" target="_blank">巴斯夫大幅上调10月聚合MDI挂牌价 国内市场迎来快速推涨</a></li>】
+2019-09-26 17:17:12,146 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987267.html" target="_blank">南水北调中线工程累计向北方供水268亿立方米</a></li>】
+2019-09-26 17:17:12,204 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987266.html" target="_blank">磁浮铁路技术标准发行 速度可达600km/h以上</a></li>】
+2019-09-26 17:17:12,317 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 17:29</span><a href="./201909/t20190925_5987217.html" target="_blank">中国天然橡胶集团正在孕育</a></li>】
+2019-09-26 17:17:12,402 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 17:28</span><a href="./201909/t20190925_5987215.html" target="_blank">上海自贸区启动“两个中心”服务文化产业发展</a></li>】
+2019-09-26 17:17:12,515 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 17:28</span><a href="./201909/t20190925_5987214.html" target="_blank">玉米纤维面料等纺织“黑科技”亮相中国国际纺织面料及辅料博览会</a></li>】
+2019-09-26 17:17:12,571 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 17:29</span><a href="./201909/t20190925_5987213.html" target="_blank">长三角异地就医门诊费用直接结算系统全面联通</a></li>】
+2019-09-26 17:17:12,604 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 17:25</span><a href="./201909/t20190925_5987203.html" target="_blank">乘联会：9月全国乘用车市场零售企稳回暖</a></li>】
+2019-09-26 17:17:12,723 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 12:28</span><a href="./201909/t20190925_5987148.html" target="_blank">2019年8月中国投资者情绪指数</a></li>】
+2019-09-26 17:17:12,805 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 12:04</span><a href="./201909/t20190925_5987142.html" target="_blank">大连今起向市场投放700吨市级储备肉 每斤价格低于市场价4元左右</a></li>】
+2019-09-26 17:17:12,868 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 10:54</span><a href="./201909/t20190925_5987112.html" target="_blank">智慧交通是一篇大文章 市场规模有望达“千亿元级”</a></li>】
+2019-09-26 17:17:12,942 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 09:42</span><a href="./201909/t20190925_5987084.html" target="_blank">58同城家政市场报告：6成以上消费者通过互联网家政信息平台选择服务</a></li>】
+2019-09-26 17:17:13,001 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 06:50</span><a href="./201909/t20190925_5987000.html" target="_blank">药品集采试点全国扩围拟中选结果出炉</a></li>】
+2019-09-26 17:17:13,082 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 20:07</span><a href="./201909/t20190924_5986967.html" target="_blank">国家药品集采拟中选结果公布 25个药品扩围采购全部成功</a></li>】
+2019-09-26 17:17:13,167 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 18:52</span><a href="./201909/t20190924_5986932.html" target="_blank">“4+7"医药集采疯狂 多家企业再降报价</a></li>】
+2019-09-26 17:17:13,232 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 10:58</span><a href="./201909/t20190924_5986856.html" target="_blank">《95后夜猫子报告》关注夜间经济 观影、追剧、看演出受热捧</a></li>】
+2019-09-26 17:17:13,270 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 06:53</span><a href="./201909/t20190924_5986732.html" target="_blank">二手房签约量下降 北京楼市难言“金九”</a></li>】
+2019-09-26 17:17:13,331 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 06:52</span><a href="./201909/t20190924_5986731.html" target="_blank">版图重构 医药行业迈向“全球新”</a></li>】
+2019-09-26 17:17:13,418 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-23 18:28</span><a href="./201909/t20190923_5986636.html" target="_blank">民政部印发《关于进一步扩大养老服务供给 促进养老服务消费的实施意见》</a></li>】
+2019-09-26 17:17:13,592 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-23 18:10</span><a href="./201909/t20190923_5986623.html" target="_blank">青岛发布12条利好政策支持新能源汽车产业发展</a></li>】
+2019-09-26 17:17:13,652 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-23 16:40</span><a href="./201909/t20190923_5986602.html" target="_blank">十部委：加快境内外抗癌新药注册审批 促进境外新药境内同步上市</a></li>】
+2019-09-26 17:17:13,709 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-23 06:58</span><a href="./201909/t20190923_5986417.html" target="_blank">实现两项重大突破 集成电路产业迎来广阔发展空间</a></li>】
+2019-09-26 17:17:13,772 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-22 09:45</span><a href="./201909/t20190922_5986366.html" target="_blank">工信部电子司：集成电路产业迎来广阔发展空间</a></li>】
+2019-09-26 17:17:13,811 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-21 21:51</span><a href="./201909/t20190921_5986361.html" target="_blank">国家大基金总裁丁文武：打造自主可控的集成电路产业链配套基础</a></li>】
+2019-09-26 17:17:13,923 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-21 11:50</span><a href="./201909/t20190921_5986350.html" target="_blank">《中国集成电路市场发展白皮书》发布 产业链趋近黄金比例</a></li>】
+2019-09-26 17:17:13,986 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-21 10:41</span><a href="./201909/t20190921_5986345.html" target="_blank">《2019先进制造业集群白皮书》发布 10城入选</a></li>】
+2019-09-26 17:17:14,022 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-21 07:29</span><a href="./201909/t20190921_5986311.html" target="_blank">2019世界制造业大会开幕 共话创新驱动中国制造转型升级</a></li>】
+2019-09-26 17:17:14,022 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【财经要闻】，url:【http://www.cs.com.cn/xwzx/hg/】
+2019-09-26 17:17:14,035 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【】
+2019-09-26 17:17:14,097 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 16:44</span><a href="./201909/t20190926_5987453.html" target="_blank">住房和城乡建设部王蒙徽：我国住房和城乡建设事业取得了四方面成就</a></li>】
+2019-09-26 17:17:14,173 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 11:12</span><a href="./201909/t20190926_5987405.html" target="_blank">财政部修订金融企业财务规则 拨备覆盖率超过监管要求2倍以上视为存在隐藏利润倾向</a></li>】
+2019-09-26 17:17:14,275 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:32</span><a href="./201909/t20190926_5987334.html" target="_blank">中国平安：持续创新 科技赋能谋转型</a></li>】
+2019-09-26 17:17:14,300 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:22</span><a href="./201909/t20190926_5987329.html" target="_blank">市值逾1100亿元 财政部划转农行工行股权充实社保基金</a></li>】
+2019-09-26 17:17:14,362 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:17</span><a href="./201909/t20190926_5987324.html" target="_blank">第三家新设外资控股券商申请获接收</a></li>】
+2019-09-26 17:17:14,402 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:13</span><a href="./201909/t20190926_5987319.html" target="_blank">洪磊：优化私募基金治理 激发创新投资活力</a></li>】
+2019-09-26 17:17:14,462 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:09</span><a href="./201909/t20190926_5987312.html" target="_blank">制度优化 “筑底”渐成 并购重组市场有望加速回暖</a></li>】
+2019-09-26 17:17:14,763 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:07</span><a href="./201909/t20190926_5987307.html" target="_blank">今年零售业将保持平稳健康发展</a></li>】
+2019-09-26 17:17:14,843 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:04</span><a href="./201909/t20190926_5987303.html" target="_blank">广发银行加速网点智能化转型 打造“有温度”的网点</a></li>】
+2019-09-26 17:17:14,912 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:01</span><a href="./201909/t20190926_5987297.html" target="_blank">报告称四季度经济企稳</a></li>】
+2019-09-26 17:17:15,052 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:53</span><a href="./201909/t20190925_5987281.html" target="_blank">农业农村部：生猪产能逐步恢复 猪肉价格涨势趋缓</a></li>】
+2019-09-26 17:17:15,112 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:40</span><a href="./201909/t20190925_5987278.html" target="_blank">王兆星：银行保险机构要积极开展知识产权质押融资</a></li>】
+2019-09-26 17:17:15,236 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 19:03</span><a href="./201909/t20190925_5987235.html" target="_blank">大型生猪养殖企业就稳定生猪生产发展进行研讨</a></li>】
+2019-09-26 17:17:15,306 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 18:12</span><a href="./201909/t20190925_5987226.html" target="_blank">中印将进一步开展银行、保险、证券等领域合作</a></li>】
+2019-09-26 17:17:15,384 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 17:37</span><a href="./201909/t20190925_5987221.html" target="_blank">北京三宗地入市 最高溢价率为25.77%</a></li>】
+2019-09-26 17:17:15,455 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 17:30</span><a href="./201909/t20190925_5987212.html" target="_blank"><font color="#000000">前8月国有企业利润同比增6.1% 建材等行业利润增长较快</font></a></li>】
+2019-09-26 17:17:15,516 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 14:07</span><a href="./201909/t20190925_5987164.html" target="_blank">王毅谈中美经贸磋商：应以平等互利为基础，以言而有信为前提</a></li>】
+2019-09-26 17:17:15,579 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 13:09</span><a href="./201909/t20190925_5987155.html" target="_blank">彭博中国债券投资解决方案再升级</a></li>】
+2019-09-26 17:17:15,648 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 11:42</span><a href="./201909/t20190925_5987131.html" target="_blank">住建部发文要求提升建筑工程品质水平 强化各方责任</a></li>】
+2019-09-26 17:17:15,722 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 11:22</span><a href="./201909/t20190925_5987125.html" target="_blank">中国银行报告预计：2019年我国GDP增长6.2%</a></li>】
+2019-09-26 17:17:15,796 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 07:37</span><a href="./201909/t20190925_5987035.html" target="_blank">易纲：不急于有较大降息和量化宽松政策</a></li>】
+2019-09-26 17:17:15,866 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 07:28</span><a href="./201909/t20190925_5987028.html" target="_blank">两部委：地方债资金10月底前拨付到位</a></li>】
+2019-09-26 17:17:15,934 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 07:14</span><a href="./201909/t20190925_5987017.html" target="_blank">中国对美方发布加征关税排除清单做出积极回应</a></li>】
+2019-09-26 17:17:16,003 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 06:52</span><a href="./201909/t20190925_5987007.html" target="_blank">南方基金：注重资本力量 铸就可持续平台</a></li>】
+2019-09-26 17:17:16,075 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 06:31</span><a href="./201909/t20190925_5986988.html" target="_blank">全国“信易贷”平台启动</a></li>】
+2019-09-26 17:17:16,149 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 22:47</span><a href="./201909/t20190924_5986986.html" target="_blank">报告预计：增值税改革将在未来三年内持续带动经济增长</a></li>】
+2019-09-26 17:17:16,230 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 22:33</span><a href="./201909/t20190924_5986982.html" target="_blank">北京小微企业金融综合服务平台启动运营 助贷之余还助投、助保、助扶</a></li>】
+2019-09-26 17:17:16,699 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 22:25</span><a href="./201909/t20190924_5986980.html" target="_blank">博鳌亚洲论坛发布《亚洲减贫报告》</a></li>】
+2019-09-26 17:17:16,769 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 21:04</span><a href="./201909/t20190924_5986974.html" target="_blank">习近平：继续沿着党和人民开辟的正确道路前进 不断推进国家治理体系和治理能力现代化</a></li>】
+2019-09-26 17:17:16,829 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 17:35</span><a href="./201909/t20190924_5986914.html" target="_blank">上海国家会计学院院长李扣庆：把国际化和数字化作为人才培养的聚焦点</a></li>】
+2019-09-26 17:17:16,890 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 14:54</span><a href="./201909/t20190924_5986898.html" target="_blank">报告预计：我国消费金融行业仍有五年以上高速成长期</a></li>】
+2019-09-26 17:17:16,958 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 11:12</span><a href="../../sylm/jsbd/201909/t20190924_5986862.html" target="_blank">辽宁拟对科创板首发上市企业给予1500万元补助</a></li>】
+2019-09-26 17:17:17,027 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-24 10:31</span><a href="./201909/t20190924_5986842.html" target="_blank">宁吉喆：我国综合国力、社会生产力、人民生活水平大幅提升</a></li>】
+2019-09-26 17:17:17,027 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司新闻】，url:【http://www.cs.com.cn/ssgs/gsxw/】
+2019-09-26 17:17:17,041 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【】
+2019-09-26 17:17:17,082 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 15:35</span><a href="./201909/t20190926_5987443.html" target="_blank">联合蚂蚁金服与阿里云 财通证券发力打造数字券商</a></li>】
+2019-09-26 17:17:17,107 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 15:34</span><a href="./201909/t20190926_5987442.html" target="_blank">APEC贸易投资委员会中方代表：中国将进一步加强绿色供应链网络建设</a></li>】
+2019-09-26 17:17:17,143 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 15:25</span><a href="./201909/t20190926_5987441.html" target="_blank">科华控股：未来考虑设立氢能源燃料电池研究中心</a></li>】
+2019-09-26 17:17:17,168 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 15:25</span><a href="./201909/t20190926_5987440.html" target="_blank">群兴玩具子公司引入战略投资者 科创产业链孵化成效显现</a></li>】
+2019-09-26 17:17:17,207 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 15:02</span><a href="./201909/t20190926_5987438.html" target="_blank">精功科技：收到浙江证监局行政监管措施决定书</a></li>】
+2019-09-26 17:17:17,230 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 14:28</span><a href="./201909/t20190926_5987432.html" target="_blank">阿里巴巴每天调用AI超1万亿次</a></li>】
+2019-09-26 17:17:17,286 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 12:09</span><a href="./201909/t20190926_5987414.html" target="_blank">银泰资源并购再下一城 42亿元收购贵州猪拱塘</a></li>】
+2019-09-26 17:17:17,312 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 10:35</span><a href="./201909/t20190926_5987396.html" target="_blank">齐心集团中标国网湖南2019年第二次电商采购打开B2B</a></li>】
+2019-09-26 17:17:17,341 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 10:22</span><a href="./201909/t20190926_5987390.html" target="_blank">国联水产智能化新工厂投产</a></li>】
+2019-09-26 17:17:17,402 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 09:56</span><a href="./201909/t20190926_5987385.html" target="_blank">振静股份拟修改重组预案 重组不会导致控制权变更</a></li>】
+2019-09-26 17:17:18,281 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:11</span><a href="./201909/t20190926_5987315.html" target="_blank">制度优化 “筑底”渐成 并购重组市场有望加速回暖</a></li>】
+2019-09-26 17:17:18,306 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:08</span><a href="./201909/t20190926_5987313.html" target="_blank">中国平安：持续创新 科技赋能谋转型</a></li>】
+2019-09-26 17:17:18,328 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:05</span><a href="./201909/t20190926_5987309.html" target="_blank">江淮汽车持续强化科技创新</a></li>】
+2019-09-26 17:17:18,352 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:06</span><a href="./201909/t20190926_5987308.html" target="_blank">广州浪奇拟终止并购大股东旗下百花香料</a></li>】
+2019-09-26 17:17:18,377 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-26 07:01</span><a href="./201909/t20190926_5987302.html" target="_blank">阿里巴巴董事局主席兼首席执行官张勇：大数据与算力是数字经济核心驱动力</a></li>】
+2019-09-26 17:17:18,418 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 22:06</span><a href="./201909/t20190925_5987285.html" target="_blank">中集全球首创无人驾驶智能登机桥在荷兰机场正式启用</a></li>】
+2019-09-26 17:17:18,519 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:54</span><a href="./201909/t20190925_5987284.html" target="_blank">*ST海马转让海马研发100%股权 将获得约4.3亿元收益</a></li>】
+2019-09-26 17:17:18,556 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:56</span><a href="./201909/t20190925_5987282.html" target="_blank">大疆创新AirWorks 2019在美国洛杉矶开幕</a></li>】
+2019-09-26 17:17:18,615 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:54</span><a href="./201909/t20190925_5987280.html" target="_blank">友阿股份：6城8店 全面开启城市奥莱新战略</a></li>】
+2019-09-26 17:17:18,643 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:53</span><a href="./201909/t20190925_5987279.html" target="_blank">ST安通：董事会换届完成 或推进与招商港口、中航信托战略合作</a></li>】
+2019-09-26 17:17:18,682 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987274.html" target="_blank">小米集团：再度回购2241万股 耗资约2亿港元</a></li>】
+2019-09-26 17:17:18,728 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987273.html" target="_blank">腾讯控股：回购11万股 耗资3623万港元</a></li>】
+2019-09-26 17:17:18,752 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987272.html" target="_blank">宁德时代与宜宾市签署项目合作协议 共同打造西部新能源产业基地</a></li>】
+2019-09-26 17:17:18,781 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987271.html" target="_blank">德展健康：就收购金城医药25.05%股份达成框架性条款</a></li>】
+2019-09-26 17:17:18,810 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987270.html" target="_blank">金域医学：与天海新域签署战略合作协议</a></li>】
+2019-09-26 17:17:18,838 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987269.html" target="_blank">*ST海马：拟出让海马研发100%股权 预计带来4.3亿元收益</a></li>】
+2019-09-26 17:17:18,900 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987268.html" target="_blank">银泰资源：拟收购贵州鼎盛鑫83.75%股权 明日复牌</a></li>】
+2019-09-26 17:17:18,920 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987265.html" target="_blank">科蓝软件：恒生电子减持公司1.28% 不排除继续减持可能</a></li>】
+2019-09-26 17:17:18,985 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987264.html" target="_blank">绿地与中兴开创地产开发和人工智能合作新模式</a></li>】
+2019-09-26 17:17:19,019 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:05</span><a href="./201909/t20190925_5987260.html" target="_blank">58同城：已在205个城市上线装修业务</a></li>】
+2019-09-26 17:17:19,106 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 21:04</span><a href="./201909/t20190925_5987259.html" target="_blank">周鸿祎当选中国计算机学会安全专委会副主任</a></li>】
+2019-09-26 17:17:19,218 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 20:58</span><a href="./201909/t20190925_5987257.html" target="_blank">两股东清仓式减持 安利股份称公司控制权存不确定性</a></li>】
+2019-09-26 17:17:19,241 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-25 20:53</span><a href="./201909/t20190925_5987256.html" target="_blank">中联航将整体进驻大兴国际机场</a></li>】
+2019-09-26 17:17:19,242 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司深度】，url:【http://www.cs.com.cn/ssgs/gssd/】
+2019-09-26 17:17:19,254 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【】
+2019-09-26 17:17:19,332 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-21 07:32</span><a href="./201909/t20190921_5986312.html" target="_blank">广汇能源：聚焦发展天然气产业 全面开启“第三次创业”新征程</a></li>】
+2019-09-26 17:17:19,399 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-07 07:50</span><a href="./201909/t20190907_5983442.html" target="_blank">迅游科技实控人“宫斗”白热化</a></li>】
+2019-09-26 17:17:19,438 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-09-07 07:34</span><a href="./201909/t20190907_5983440.html" target="_blank">爱尔眼科董事长陈邦：启动“二次创业” 打造眼健康生态圈</a></li>】
+2019-09-26 17:17:19,469 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-08-30 07:03</span><a href="./201908/t20190830_5981212.html" target="_blank">人工智能“国家队”扩容 中国平安、海康威视、360等十家公司入选</a></li>】
+2019-09-26 17:17:19,496 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-08-30 07:00</span><a href="./201908/t20190830_5981211.html" target="_blank">人工智能产业将进入高速增长期</a></li>】
+2019-09-26 17:17:19,510 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-08-29 07:15</span><a href="./201908/t20190829_5980904.html" target="_blank">三七互娱董事长李卫伟：做玩家喜欢的游戏</a></li>】
+2019-09-26 17:17:19,550 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-08-24 10:06</span><a href="../../xwzx/hg/201908/t20190824_5979870.html" target="_blank">华为中兴领衔 深圳5G产业快马插双翼</a></li>】
+2019-09-26 17:17:19,576 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-08-24 10:13</span><a href="./201908/t20190824_5979877.html" target="_blank">控制节奏 找“钱”要紧 房企拿地策略生变</a></li>】
+2019-09-26 17:17:19,603 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-08-23 07:11</span><a href="../gsxw/201908/t20190823_5979563.html" target="_blank">ST中天流动性危机透视 与第一大供应商关系剪不断理还乱</a></li>】
+2019-09-26 17:17:19,674 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-08-14 07:39</span><a href="../gsxw/201908/t20190814_5977280.html" target="_blank">*ST鹏起：靠小贷撬起的资本游戏落幕</a></li>】
+2019-09-26 17:17:19,709 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-07-31 07:22</span><a href="../gsxw/201907/t20190731_5973366.html" target="_blank">*ST飞马“折翼”数十亿资金蹊跷流向供应商</a></li>】
+2019-09-26 17:17:19,733 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-07-16 06:53</span><a href="../gsxw/201907/t20190716_5968683.html" target="_blank">该谁买单 华昌达陷两亿元债务罗生门</a></li>】
+2019-09-26 17:17:19,827 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-06-28 06:58</span><a href="../gsxw/201906/t20190628_5962678.html" target="_blank">*ST斯太遭立案调查 信托计划投资人亏损引出“德隆系”旧部</a></li>】
+2019-09-26 17:17:19,887 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-06-21 09:46</span><a href="./201906/t20190621_5960382.html" target="_blank">助力股市大利好！重组“松绑”政策出台 创业板能借壳 关键看六点</a></li>】
+2019-09-26 17:17:19,958 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-06-13 10:26</span><a href="../gsxw/201906/t20190613_5957890.html" target="_blank">海印“神药”：是防治非洲猪瘟的疫苗，还是拉抬股价的“毒药”？</a></li>】
+2019-09-26 17:17:20,022 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-06-11 06:42</span><a href="../gsxw/201906/t20190611_5956920.html" target="_blank">前两大应收账款客户指向以晴集团 *ST康得百亿营收成疑</a></li>】
+2019-09-26 17:17:20,083 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-05-22 07:44</span><a href="../gsxw/201905/t20190522_5951395.html" target="_blank">1.25亿元债务豁免未及时披露 吉药控股蹊跷交易背后惊现隐秘关联关系</a></li>】
+2019-09-26 17:17:20,150 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-05-06 06:56</span><a href="../gsxw/201905/t20190506_5946213.html" target="_blank">华塑控股贸易对手欠账9260万元 “阜兴系”魅影频现</a></li>】
+2019-09-26 17:17:20,217 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-05-06 06:51</span><a href="../gsxw/201905/t20190506_5946212.html" target="_blank">华塑控股实控方或另有其人 “阜兴系”资本腾挪术浮现</a></li>】
+2019-09-26 17:17:20,292 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-01-19 07:35</span><a href="../gsxw/201901/t20190119_5917066.html" target="_blank">零售业符号王府井的“转身”：净利润连续三年增长</a></li>】
+2019-09-26 17:17:20,389 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-01-17 08:47</span><a href="../gsxw/201901/t20190117_5916156.html" target="_blank">华东医药转型直指研发型药企 股价深调价值是否凸显</a></li>】
+2019-09-26 17:17:20,497 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-01-08 07:20</span><a href="../gsxw/201901/t20190108_5912490.html" target="_blank">长航油运重新上市启示录</a></li>】
+2019-09-26 17:17:20,602 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-01-07 06:40</span><a href="../gsxw/201901/t20190107_5911967.html" target="_blank">母公司遭供应商上门催债 ST升达实控人被指占用资金炒股</a></li>】
+2019-09-26 17:17:20,676 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-01-04 08:17</span><a href="../gsxw/201901/t20190104_5911450.html" target="_blank">金贵银业创始人欲抽身 控制权转给伪国企</a></li>】
+2019-09-26 17:17:20,748 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>19-01-02 09:21</span><a href="../gsxw/201901/t20190102_5910514.html" target="_blank">索菱股份7亿资金流出背后：涉事企业与上市公司有交集</a></li>】
+2019-09-26 17:17:20,828 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>18-12-26 07:23</span><a href="../gsxw/201812/t20181226_5908722.html" target="_blank">陈炎顺：京东方要做显示领域领导者</a></li>】
+2019-09-26 17:17:20,918 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>18-12-06 13:43</span><a href="./201812/t20181206_5901342.html" target="_blank">永辉超市“张氏兄弟”分界而治 “超级物种”改走独立孵化</a></li>】
+2019-09-26 17:17:20,980 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>18-12-05 06:53</span><a href="../gsxw/201812/t20181205_5900640.html" target="_blank">永辉超市大调整 张氏兄弟解除一致行动协议</a></li>】
+2019-09-26 17:17:21,035 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>18-12-05 06:55</span><a href="../gsxw/201812/t20181205_5900641.html" target="_blank">借力供给侧改革和重组 冀东水泥打造国际一流强企</a></li>】
+2019-09-26 17:17:21,096 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>18-11-29 07:20</span><a href="../gsxw/201811/t20181129_5898385.html" target="_blank">收购前夕大股东蹊跷离场 华联“双雄”背后隐现复杂股权关系</a></li>】
+2019-09-26 17:17:21,509 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>18-11-28 07:27</span><a href="./201811/t20181128_5897911.html" target="_blank">新三板摘牌公司维艾普“猝死”调查 再升科技难撇关系</a></li>】
+2019-09-26 17:17:21,573 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>18-11-27 07:12</span><a href="../gsxw/201811/t20181127_5897427.html" target="_blank">片仔癀董事长刘建顺：弥久文化转化为不俗业绩</a></li>】
+2019-09-26 17:17:21,668 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ========== 解析异常 :【<li><span>18-11-21 05:55</span><a href="../gsxw/201811/t20181121_5895164.html" target="_blank">博天环境三大股东减持引上交所问询</a></li>】
+2019-09-26 17:17:21,705 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:44}] to localhost:27017 because the pool has been closed.
+2019-09-26 17:18:57,925 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 10724 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 17:18:57,931 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 17:19:06,345 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 17:19:06,499 [cluster-ClusterId{value='5d8c828aa1a42f29e43559de', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:45}] to localhost:27017
+2019-09-26 17:19:06,507 [cluster-ClusterId{value='5d8c828aa1a42f29e43559de', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=4989100}
+2019-09-26 17:19:11,038 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.2 seconds (JVM running for 16.294)
+2019-09-26 17:19:11,044 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 17:19:11,933 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【行业资讯】，url:【http://www.cs.com.cn/cj/hyzx/】
+2019-09-26 17:19:12,247 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:46}] to localhost:27017
+2019-09-26 17:19:15,857 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【财经要闻】，url:【http://www.cs.com.cn/xwzx/hg/】
+2019-09-26 17:19:18,013 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司新闻】，url:【http://www.cs.com.cn/ssgs/gsxw/】
+2019-09-26 17:19:19,358 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司深度】，url:【http://www.cs.com.cn/ssgs/gssd/】
+2019-09-26 17:19:22,930 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:46}] to localhost:27017 because the pool has been closed.
+2019-09-26 17:19:48,295 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 2016 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 17:19:48,307 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 17:19:57,088 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 17:19:57,250 [cluster-ClusterId{value='5d8c82bda1a42f07e016e56b', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:47}] to localhost:27017
+2019-09-26 17:19:57,271 [cluster-ClusterId{value='5d8c82bda1a42f07e016e56b', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=11053100}
+2019-09-26 17:20:01,764 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.301 seconds (JVM running for 16.451)
+2019-09-26 17:20:01,769 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 17:20:02,219 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【行业资讯】，url:【http://www.cs.com.cn/cj/hyzx/】
+2019-09-26 17:20:02,578 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:48}] to localhost:27017
+2019-09-26 17:20:02,650 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【】
+2019-09-26 17:20:02,676 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-26 15:23</span><a href="./201909/t20190926_5987439.html" target="_blank">北京大兴国际机场线新机场线开通试运营 最高时速达160km/h</a></li>】
+2019-09-26 17:20:02,716 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-26 14:40</span><a href="./201909/t20190926_5987435.html" target="_blank">APEC绿色供应链优秀案例体验中心正式启动</a></li>】
+2019-09-26 17:20:02,737 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-26 14:34</span><a href="./201909/t20190926_5987434.html" target="_blank">《居住服务平台信用建设报告》在济南发布</a></li>】
+2019-09-26 17:20:02,751 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-26 12:13</span><a href="./201909/t20190926_5987415.html" target="_blank">APEC绿色供应链合作网络2019年年会暨能力建设研讨会在天津举行</a></li>】
+2019-09-26 17:20:02,767 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-26 07:11</span><a href="../../ssgs/gsxw/201909/t20190926_5987315.html" target="_blank">制度优化 “筑底”渐成 并购重组市场有望加速回暖</a></li>】
+2019-09-26 17:20:02,791 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987276.html" target="_blank">成都出台推动体育产业发展政策：建设世界赛事名城</a></li>】
+2019-09-26 17:20:02,807 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987275.html" target="_blank">巴斯夫大幅上调10月聚合MDI挂牌价 国内市场迎来快速推涨</a></li>】
+2019-09-26 17:20:02,821 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987267.html" target="_blank">南水北调中线工程累计向北方供水268亿立方米</a></li>】
+2019-09-26 17:20:02,838 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987266.html" target="_blank">磁浮铁路技术标准发行 速度可达600km/h以上</a></li>】
+2019-09-26 17:20:02,856 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 17:29</span><a href="./201909/t20190925_5987217.html" target="_blank">中国天然橡胶集团正在孕育</a></li>】
+2019-09-26 17:20:02,870 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 17:28</span><a href="./201909/t20190925_5987215.html" target="_blank">上海自贸区启动“两个中心”服务文化产业发展</a></li>】
+2019-09-26 17:20:02,885 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 17:28</span><a href="./201909/t20190925_5987214.html" target="_blank">玉米纤维面料等纺织“黑科技”亮相中国国际纺织面料及辅料博览会</a></li>】
+2019-09-26 17:20:02,900 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 17:29</span><a href="./201909/t20190925_5987213.html" target="_blank">长三角异地就医门诊费用直接结算系统全面联通</a></li>】
+2019-09-26 17:20:02,915 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 17:25</span><a href="./201909/t20190925_5987203.html" target="_blank">乘联会：9月全国乘用车市场零售企稳回暖</a></li>】
+2019-09-26 17:20:02,933 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 12:28</span><a href="./201909/t20190925_5987148.html" target="_blank">2019年8月中国投资者情绪指数</a></li>】
+2019-09-26 17:20:02,946 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 12:04</span><a href="./201909/t20190925_5987142.html" target="_blank">大连今起向市场投放700吨市级储备肉 每斤价格低于市场价4元左右</a></li>】
+2019-09-26 17:20:02,959 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 10:54</span><a href="./201909/t20190925_5987112.html" target="_blank">智慧交通是一篇大文章 市场规模有望达“千亿元级”</a></li>】
+2019-09-26 17:20:02,972 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 09:42</span><a href="./201909/t20190925_5987084.html" target="_blank">58同城家政市场报告：6成以上消费者通过互联网家政信息平台选择服务</a></li>】
+2019-09-26 17:20:02,986 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-25 06:50</span><a href="./201909/t20190925_5987000.html" target="_blank">药品集采试点全国扩围拟中选结果出炉</a></li>】
+2019-09-26 17:20:02,998 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-24 20:07</span><a href="./201909/t20190924_5986967.html" target="_blank">国家药品集采拟中选结果公布 25个药品扩围采购全部成功</a></li>】
+2019-09-26 17:20:03,021 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-24 18:52</span><a href="./201909/t20190924_5986932.html" target="_blank">“4+7"医药集采疯狂 多家企业再降报价</a></li>】
+2019-09-26 17:20:03,039 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-24 10:58</span><a href="./201909/t20190924_5986856.html" target="_blank">《95后夜猫子报告》关注夜间经济 观影、追剧、看演出受热捧</a></li>】
+2019-09-26 17:20:03,056 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-24 06:53</span><a href="./201909/t20190924_5986732.html" target="_blank">二手房签约量下降 北京楼市难言“金九”</a></li>】
+2019-09-26 17:20:03,073 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-24 06:52</span><a href="./201909/t20190924_5986731.html" target="_blank">版图重构 医药行业迈向“全球新”</a></li>】
+2019-09-26 17:20:03,086 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-23 18:28</span><a href="./201909/t20190923_5986636.html" target="_blank">民政部印发《关于进一步扩大养老服务供给 促进养老服务消费的实施意见》</a></li>】
+2019-09-26 17:20:03,099 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-23 18:10</span><a href="./201909/t20190923_5986623.html" target="_blank">青岛发布12条利好政策支持新能源汽车产业发展</a></li>】
+2019-09-26 17:20:03,113 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-23 16:40</span><a href="./201909/t20190923_5986602.html" target="_blank">十部委：加快境内外抗癌新药注册审批 促进境外新药境内同步上市</a></li>】
+2019-09-26 17:20:03,129 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-23 06:58</span><a href="./201909/t20190923_5986417.html" target="_blank">实现两项重大突破 集成电路产业迎来广阔发展空间</a></li>】
+2019-09-26 17:20:03,144 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-22 09:45</span><a href="./201909/t20190922_5986366.html" target="_blank">工信部电子司：集成电路产业迎来广阔发展空间</a></li>】
+2019-09-26 17:20:03,159 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-21 21:51</span><a href="./201909/t20190921_5986361.html" target="_blank">国家大基金总裁丁文武：打造自主可控的集成电路产业链配套基础</a></li>】
+2019-09-26 17:20:03,172 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-21 11:50</span><a href="./201909/t20190921_5986350.html" target="_blank">《中国集成电路市场发展白皮书》发布 产业链趋近黄金比例</a></li>】
+2019-09-26 17:20:03,185 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-21 10:41</span><a href="./201909/t20190921_5986345.html" target="_blank">《2019先进制造业集群白皮书》发布 10城入选</a></li>】
+2019-09-26 17:20:03,201 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【行业资讯】 解析异常 :【<li><span>19-09-21 07:29</span><a href="./201909/t20190921_5986311.html" target="_blank">2019世界制造业大会开幕 共话创新驱动中国制造转型升级</a></li>】
+2019-09-26 17:20:03,201 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【财经要闻】，url:【http://www.cs.com.cn/xwzx/hg/】
+2019-09-26 17:20:03,220 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【】
+2019-09-26 17:20:03,238 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 16:44</span><a href="./201909/t20190926_5987453.html" target="_blank">住房和城乡建设部王蒙徽：我国住房和城乡建设事业取得了四方面成就</a></li>】
+2019-09-26 17:20:03,254 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 11:12</span><a href="./201909/t20190926_5987405.html" target="_blank">财政部修订金融企业财务规则 拨备覆盖率超过监管要求2倍以上视为存在隐藏利润倾向</a></li>】
+2019-09-26 17:20:03,268 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 07:32</span><a href="./201909/t20190926_5987334.html" target="_blank">中国平安：持续创新 科技赋能谋转型</a></li>】
+2019-09-26 17:20:03,285 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 07:22</span><a href="./201909/t20190926_5987329.html" target="_blank">市值逾1100亿元 财政部划转农行工行股权充实社保基金</a></li>】
+2019-09-26 17:20:03,301 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 07:17</span><a href="./201909/t20190926_5987324.html" target="_blank">第三家新设外资控股券商申请获接收</a></li>】
+2019-09-26 17:20:03,315 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 07:13</span><a href="./201909/t20190926_5987319.html" target="_blank">洪磊：优化私募基金治理 激发创新投资活力</a></li>】
+2019-09-26 17:20:03,329 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 07:09</span><a href="./201909/t20190926_5987312.html" target="_blank">制度优化 “筑底”渐成 并购重组市场有望加速回暖</a></li>】
+2019-09-26 17:20:03,340 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 07:07</span><a href="./201909/t20190926_5987307.html" target="_blank">今年零售业将保持平稳健康发展</a></li>】
+2019-09-26 17:20:03,352 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 07:04</span><a href="./201909/t20190926_5987303.html" target="_blank">广发银行加速网点智能化转型 打造“有温度”的网点</a></li>】
+2019-09-26 17:20:03,364 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-26 07:01</span><a href="./201909/t20190926_5987297.html" target="_blank">报告称四季度经济企稳</a></li>】
+2019-09-26 17:20:03,376 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 21:53</span><a href="./201909/t20190925_5987281.html" target="_blank">农业农村部：生猪产能逐步恢复 猪肉价格涨势趋缓</a></li>】
+2019-09-26 17:20:03,387 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 21:40</span><a href="./201909/t20190925_5987278.html" target="_blank">王兆星：银行保险机构要积极开展知识产权质押融资</a></li>】
+2019-09-26 17:20:03,401 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 19:03</span><a href="./201909/t20190925_5987235.html" target="_blank">大型生猪养殖企业就稳定生猪生产发展进行研讨</a></li>】
+2019-09-26 17:20:03,414 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 18:12</span><a href="./201909/t20190925_5987226.html" target="_blank">中印将进一步开展银行、保险、证券等领域合作</a></li>】
+2019-09-26 17:20:03,426 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 17:37</span><a href="./201909/t20190925_5987221.html" target="_blank">北京三宗地入市 最高溢价率为25.77%</a></li>】
+2019-09-26 17:20:03,448 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 17:30</span><a href="./201909/t20190925_5987212.html" target="_blank"><font color="#000000">前8月国有企业利润同比增6.1% 建材等行业利润增长较快</font></a></li>】
+2019-09-26 17:20:03,466 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 14:07</span><a href="./201909/t20190925_5987164.html" target="_blank">王毅谈中美经贸磋商：应以平等互利为基础，以言而有信为前提</a></li>】
+2019-09-26 17:20:03,480 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 13:09</span><a href="./201909/t20190925_5987155.html" target="_blank">彭博中国债券投资解决方案再升级</a></li>】
+2019-09-26 17:20:03,493 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 11:42</span><a href="./201909/t20190925_5987131.html" target="_blank">住建部发文要求提升建筑工程品质水平 强化各方责任</a></li>】
+2019-09-26 17:20:03,507 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 11:22</span><a href="./201909/t20190925_5987125.html" target="_blank">中国银行报告预计：2019年我国GDP增长6.2%</a></li>】
+2019-09-26 17:20:03,519 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 07:37</span><a href="./201909/t20190925_5987035.html" target="_blank">易纲：不急于有较大降息和量化宽松政策</a></li>】
+2019-09-26 17:20:03,534 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 07:28</span><a href="./201909/t20190925_5987028.html" target="_blank">两部委：地方债资金10月底前拨付到位</a></li>】
+2019-09-26 17:20:03,552 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 07:14</span><a href="./201909/t20190925_5987017.html" target="_blank">中国对美方发布加征关税排除清单做出积极回应</a></li>】
+2019-09-26 17:20:03,571 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 06:52</span><a href="./201909/t20190925_5987007.html" target="_blank">南方基金：注重资本力量 铸就可持续平台</a></li>】
+2019-09-26 17:20:03,584 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-25 06:31</span><a href="./201909/t20190925_5986988.html" target="_blank">全国“信易贷”平台启动</a></li>】
+2019-09-26 17:20:03,600 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-24 22:47</span><a href="./201909/t20190924_5986986.html" target="_blank">报告预计：增值税改革将在未来三年内持续带动经济增长</a></li>】
+2019-09-26 17:20:03,613 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-24 22:33</span><a href="./201909/t20190924_5986982.html" target="_blank">北京小微企业金融综合服务平台启动运营 助贷之余还助投、助保、助扶</a></li>】
+2019-09-26 17:20:03,627 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-24 22:25</span><a href="./201909/t20190924_5986980.html" target="_blank">博鳌亚洲论坛发布《亚洲减贫报告》</a></li>】
+2019-09-26 17:20:03,643 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-24 21:04</span><a href="./201909/t20190924_5986974.html" target="_blank">习近平：继续沿着党和人民开辟的正确道路前进 不断推进国家治理体系和治理能力现代化</a></li>】
+2019-09-26 17:20:03,659 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-24 17:35</span><a href="./201909/t20190924_5986914.html" target="_blank">上海国家会计学院院长李扣庆：把国际化和数字化作为人才培养的聚焦点</a></li>】
+2019-09-26 17:20:03,672 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-24 14:54</span><a href="./201909/t20190924_5986898.html" target="_blank">报告预计：我国消费金融行业仍有五年以上高速成长期</a></li>】
+2019-09-26 17:20:03,687 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-24 11:12</span><a href="../../sylm/jsbd/201909/t20190924_5986862.html" target="_blank">辽宁拟对科创板首发上市企业给予1500万元补助</a></li>】
+2019-09-26 17:20:03,706 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【财经要闻】 解析异常 :【<li><span>19-09-24 10:31</span><a href="./201909/t20190924_5986842.html" target="_blank">宁吉喆：我国综合国力、社会生产力、人民生活水平大幅提升</a></li>】
+2019-09-26 17:20:03,707 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司新闻】，url:【http://www.cs.com.cn/ssgs/gsxw/】
+2019-09-26 17:20:03,721 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【】
+2019-09-26 17:20:03,735 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 15:35</span><a href="./201909/t20190926_5987443.html" target="_blank">联合蚂蚁金服与阿里云 财通证券发力打造数字券商</a></li>】
+2019-09-26 17:20:03,748 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 15:34</span><a href="./201909/t20190926_5987442.html" target="_blank">APEC贸易投资委员会中方代表：中国将进一步加强绿色供应链网络建设</a></li>】
+2019-09-26 17:20:03,835 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 15:25</span><a href="./201909/t20190926_5987441.html" target="_blank">科华控股：未来考虑设立氢能源燃料电池研究中心</a></li>】
+2019-09-26 17:20:03,845 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 15:25</span><a href="./201909/t20190926_5987440.html" target="_blank">群兴玩具子公司引入战略投资者 科创产业链孵化成效显现</a></li>】
+2019-09-26 17:20:03,855 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 15:02</span><a href="./201909/t20190926_5987438.html" target="_blank">精功科技：收到浙江证监局行政监管措施决定书</a></li>】
+2019-09-26 17:20:03,868 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 14:28</span><a href="./201909/t20190926_5987432.html" target="_blank">阿里巴巴每天调用AI超1万亿次</a></li>】
+2019-09-26 17:20:03,882 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 12:09</span><a href="./201909/t20190926_5987414.html" target="_blank">银泰资源并购再下一城 42亿元收购贵州猪拱塘</a></li>】
+2019-09-26 17:20:03,893 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 10:35</span><a href="./201909/t20190926_5987396.html" target="_blank">齐心集团中标国网湖南2019年第二次电商采购打开B2B</a></li>】
+2019-09-26 17:20:03,905 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 10:22</span><a href="./201909/t20190926_5987390.html" target="_blank">国联水产智能化新工厂投产</a></li>】
+2019-09-26 17:20:03,916 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 09:56</span><a href="./201909/t20190926_5987385.html" target="_blank">振静股份拟修改重组预案 重组不会导致控制权变更</a></li>】
+2019-09-26 17:20:03,926 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 07:11</span><a href="./201909/t20190926_5987315.html" target="_blank">制度优化 “筑底”渐成 并购重组市场有望加速回暖</a></li>】
+2019-09-26 17:20:03,937 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 07:08</span><a href="./201909/t20190926_5987313.html" target="_blank">中国平安：持续创新 科技赋能谋转型</a></li>】
+2019-09-26 17:20:03,949 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 07:05</span><a href="./201909/t20190926_5987309.html" target="_blank">江淮汽车持续强化科技创新</a></li>】
+2019-09-26 17:20:03,961 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 07:06</span><a href="./201909/t20190926_5987308.html" target="_blank">广州浪奇拟终止并购大股东旗下百花香料</a></li>】
+2019-09-26 17:20:03,972 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-26 07:01</span><a href="./201909/t20190926_5987302.html" target="_blank">阿里巴巴董事局主席兼首席执行官张勇：大数据与算力是数字经济核心驱动力</a></li>】
+2019-09-26 17:20:03,983 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 22:06</span><a href="./201909/t20190925_5987285.html" target="_blank">中集全球首创无人驾驶智能登机桥在荷兰机场正式启用</a></li>】
+2019-09-26 17:20:03,993 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:54</span><a href="./201909/t20190925_5987284.html" target="_blank">*ST海马转让海马研发100%股权 将获得约4.3亿元收益</a></li>】
+2019-09-26 17:20:04,096 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:56</span><a href="./201909/t20190925_5987282.html" target="_blank">大疆创新AirWorks 2019在美国洛杉矶开幕</a></li>】
+2019-09-26 17:20:04,106 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:54</span><a href="./201909/t20190925_5987280.html" target="_blank">友阿股份：6城8店 全面开启城市奥莱新战略</a></li>】
+2019-09-26 17:20:04,116 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:53</span><a href="./201909/t20190925_5987279.html" target="_blank">ST安通：董事会换届完成 或推进与招商港口、中航信托战略合作</a></li>】
+2019-09-26 17:20:04,127 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987274.html" target="_blank">小米集团：再度回购2241万股 耗资约2亿港元</a></li>】
+2019-09-26 17:20:04,136 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987273.html" target="_blank">腾讯控股：回购11万股 耗资3623万港元</a></li>】
+2019-09-26 17:20:04,146 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:33</span><a href="./201909/t20190925_5987272.html" target="_blank">宁德时代与宜宾市签署项目合作协议 共同打造西部新能源产业基地</a></li>】
+2019-09-26 17:20:04,159 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987271.html" target="_blank">德展健康：就收购金城医药25.05%股份达成框架性条款</a></li>】
+2019-09-26 17:20:04,170 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987270.html" target="_blank">金域医学：与天海新域签署战略合作协议</a></li>】
+2019-09-26 17:20:04,180 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987269.html" target="_blank">*ST海马：拟出让海马研发100%股权 预计带来4.3亿元收益</a></li>】
+2019-09-26 17:20:04,192 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987268.html" target="_blank">银泰资源：拟收购贵州鼎盛鑫83.75%股权 明日复牌</a></li>】
+2019-09-26 17:20:04,203 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987265.html" target="_blank">科蓝软件：恒生电子减持公司1.28% 不排除继续减持可能</a></li>】
+2019-09-26 17:20:04,213 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:30</span><a href="./201909/t20190925_5987264.html" target="_blank">绿地与中兴开创地产开发和人工智能合作新模式</a></li>】
+2019-09-26 17:20:04,225 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:05</span><a href="./201909/t20190925_5987260.html" target="_blank">58同城：已在205个城市上线装修业务</a></li>】
+2019-09-26 17:20:04,236 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 21:04</span><a href="./201909/t20190925_5987259.html" target="_blank">周鸿祎当选中国计算机学会安全专委会副主任</a></li>】
+2019-09-26 17:20:04,246 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 20:58</span><a href="./201909/t20190925_5987257.html" target="_blank">两股东清仓式减持 安利股份称公司控制权存不确定性</a></li>】
+2019-09-26 17:20:04,256 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司新闻】 解析异常 :【<li><span>19-09-25 20:53</span><a href="./201909/t20190925_5987256.html" target="_blank">中联航将整体进驻大兴国际机场</a></li>】
+2019-09-26 17:20:04,257 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司深度】，url:【http://www.cs.com.cn/ssgs/gssd/】
+2019-09-26 17:20:04,270 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【】
+2019-09-26 17:20:04,287 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-09-21 07:32</span><a href="./201909/t20190921_5986312.html" target="_blank">广汇能源：聚焦发展天然气产业 全面开启“第三次创业”新征程</a></li>】
+2019-09-26 17:20:04,297 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-09-07 07:50</span><a href="./201909/t20190907_5983442.html" target="_blank">迅游科技实控人“宫斗”白热化</a></li>】
+2019-09-26 17:20:04,309 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-09-07 07:34</span><a href="./201909/t20190907_5983440.html" target="_blank">爱尔眼科董事长陈邦：启动“二次创业” 打造眼健康生态圈</a></li>】
+2019-09-26 17:20:04,321 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-08-30 07:03</span><a href="./201908/t20190830_5981212.html" target="_blank">人工智能“国家队”扩容 中国平安、海康威视、360等十家公司入选</a></li>】
+2019-09-26 17:20:04,333 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-08-30 07:00</span><a href="./201908/t20190830_5981211.html" target="_blank">人工智能产业将进入高速增长期</a></li>】
+2019-09-26 17:20:04,343 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-08-29 07:15</span><a href="./201908/t20190829_5980904.html" target="_blank">三七互娱董事长李卫伟：做玩家喜欢的游戏</a></li>】
+2019-09-26 17:20:04,356 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-08-24 10:06</span><a href="../../xwzx/hg/201908/t20190824_5979870.html" target="_blank">华为中兴领衔 深圳5G产业快马插双翼</a></li>】
+2019-09-26 17:20:04,369 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-08-24 10:13</span><a href="./201908/t20190824_5979877.html" target="_blank">控制节奏 找“钱”要紧 房企拿地策略生变</a></li>】
+2019-09-26 17:20:04,381 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-08-23 07:11</span><a href="../gsxw/201908/t20190823_5979563.html" target="_blank">ST中天流动性危机透视 与第一大供应商关系剪不断理还乱</a></li>】
+2019-09-26 17:20:04,392 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-08-14 07:39</span><a href="../gsxw/201908/t20190814_5977280.html" target="_blank">*ST鹏起：靠小贷撬起的资本游戏落幕</a></li>】
+2019-09-26 17:20:04,404 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-07-31 07:22</span><a href="../gsxw/201907/t20190731_5973366.html" target="_blank">*ST飞马“折翼”数十亿资金蹊跷流向供应商</a></li>】
+2019-09-26 17:20:04,414 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-07-16 06:53</span><a href="../gsxw/201907/t20190716_5968683.html" target="_blank">该谁买单 华昌达陷两亿元债务罗生门</a></li>】
+2019-09-26 17:20:04,424 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-06-28 06:58</span><a href="../gsxw/201906/t20190628_5962678.html" target="_blank">*ST斯太遭立案调查 信托计划投资人亏损引出“德隆系”旧部</a></li>】
+2019-09-26 17:20:04,436 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-06-21 09:46</span><a href="./201906/t20190621_5960382.html" target="_blank">助力股市大利好！重组“松绑”政策出台 创业板能借壳 关键看六点</a></li>】
+2019-09-26 17:20:04,448 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-06-13 10:26</span><a href="../gsxw/201906/t20190613_5957890.html" target="_blank">海印“神药”：是防治非洲猪瘟的疫苗，还是拉抬股价的“毒药”？</a></li>】
+2019-09-26 17:20:04,461 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-06-11 06:42</span><a href="../gsxw/201906/t20190611_5956920.html" target="_blank">前两大应收账款客户指向以晴集团 *ST康得百亿营收成疑</a></li>】
+2019-09-26 17:20:04,473 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-05-22 07:44</span><a href="../gsxw/201905/t20190522_5951395.html" target="_blank">1.25亿元债务豁免未及时披露 吉药控股蹊跷交易背后惊现隐秘关联关系</a></li>】
+2019-09-26 17:20:04,484 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-05-06 06:56</span><a href="../gsxw/201905/t20190506_5946213.html" target="_blank">华塑控股贸易对手欠账9260万元 “阜兴系”魅影频现</a></li>】
+2019-09-26 17:20:04,497 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-05-06 06:51</span><a href="../gsxw/201905/t20190506_5946212.html" target="_blank">华塑控股实控方或另有其人 “阜兴系”资本腾挪术浮现</a></li>】
+2019-09-26 17:20:04,508 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-01-19 07:35</span><a href="../gsxw/201901/t20190119_5917066.html" target="_blank">零售业符号王府井的“转身”：净利润连续三年增长</a></li>】
+2019-09-26 17:20:04,519 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-01-17 08:47</span><a href="../gsxw/201901/t20190117_5916156.html" target="_blank">华东医药转型直指研发型药企 股价深调价值是否凸显</a></li>】
+2019-09-26 17:20:04,531 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-01-08 07:20</span><a href="../gsxw/201901/t20190108_5912490.html" target="_blank">长航油运重新上市启示录</a></li>】
+2019-09-26 17:20:04,543 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-01-07 06:40</span><a href="../gsxw/201901/t20190107_5911967.html" target="_blank">母公司遭供应商上门催债 ST升达实控人被指占用资金炒股</a></li>】
+2019-09-26 17:20:04,556 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-01-04 08:17</span><a href="../gsxw/201901/t20190104_5911450.html" target="_blank">金贵银业创始人欲抽身 控制权转给伪国企</a></li>】
+2019-09-26 17:20:04,567 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>19-01-02 09:21</span><a href="../gsxw/201901/t20190102_5910514.html" target="_blank">索菱股份7亿资金流出背后：涉事企业与上市公司有交集</a></li>】
+2019-09-26 17:20:04,579 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>18-12-26 07:23</span><a href="../gsxw/201812/t20181226_5908722.html" target="_blank">陈炎顺：京东方要做显示领域领导者</a></li>】
+2019-09-26 17:20:04,592 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>18-12-06 13:43</span><a href="./201812/t20181206_5901342.html" target="_blank">永辉超市“张氏兄弟”分界而治 “超级物种”改走独立孵化</a></li>】
+2019-09-26 17:20:04,602 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>18-12-05 06:53</span><a href="../gsxw/201812/t20181205_5900640.html" target="_blank">永辉超市大调整 张氏兄弟解除一致行动协议</a></li>】
+2019-09-26 17:20:04,617 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>18-12-05 06:55</span><a href="../gsxw/201812/t20181205_5900641.html" target="_blank">借力供给侧改革和重组 冀东水泥打造国际一流强企</a></li>】
+2019-09-26 17:20:04,629 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>18-11-29 07:20</span><a href="../gsxw/201811/t20181129_5898385.html" target="_blank">收购前夕大股东蹊跷离场 华联“双雄”背后隐现复杂股权关系</a></li>】
+2019-09-26 17:20:04,642 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>18-11-28 07:27</span><a href="./201811/t20181128_5897911.html" target="_blank">新三板摘牌公司维艾普“猝死”调查 再升科技难撇关系</a></li>】
+2019-09-26 17:20:04,654 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>18-11-27 07:12</span><a href="../gsxw/201811/t20181127_5897427.html" target="_blank">片仔癀董事长刘建顺：弥久文化转化为不俗业绩</a></li>】
+2019-09-26 17:20:04,666 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - =========== 抓取中证网 ==========type:【公司深度】 解析异常 :【<li><span>18-11-21 05:55</span><a href="../gsxw/201811/t20181121_5895164.html" target="_blank">博天环境三大股东减持引上交所问询</a></li>】
+2019-09-26 17:20:04,713 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:48}] to localhost:27017 because the pool has been closed.
+2019-09-26 17:22:50,776 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 9296 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 17:22:50,783 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 17:23:00,058 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 17:23:00,206 [cluster-ClusterId{value='5d8c8374a1a42f24505ed7ab', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:49}] to localhost:27017
+2019-09-26 17:23:00,218 [cluster-ClusterId{value='5d8c8374a1a42f24505ed7ab', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=9003500}
+2019-09-26 17:23:06,433 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 16.603 seconds (JVM running for 19.06)
+2019-09-26 17:23:06,438 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 17:23:06,956 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【行业资讯】，url:【http://www.cs.com.cn/cj/hyzx/】
+2019-09-26 17:23:07,350 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:50}] to localhost:27017
+2019-09-26 17:23:09,863 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【财经要闻】，url:【http://www.cs.com.cn/xwzx/hg/】
+2019-09-26 17:23:12,203 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司新闻】，url:【http://www.cs.com.cn/ssgs/gsxw/】
+2019-09-26 17:23:13,921 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司深度】，url:【http://www.cs.com.cn/ssgs/gssd/】
+2019-09-26 17:23:16,583 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:50}] to localhost:27017 because the pool has been closed.
+2019-09-26 17:23:35,287 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 10264 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 17:23:35,295 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 17:23:43,744 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 17:23:43,904 [cluster-ClusterId{value='5d8c839fa1a42f2818f0b139', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:51}] to localhost:27017
+2019-09-26 17:23:43,912 [cluster-ClusterId{value='5d8c839fa1a42f2818f0b139', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=5017300}
+2019-09-26 17:23:48,313 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.042 seconds (JVM running for 16.142)
+2019-09-26 17:23:48,317 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 17:23:48,804 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【行业资讯】，url:【http://www.cs.com.cn/cj/hyzx/】
+2019-09-26 17:23:49,160 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:52}] to localhost:27017
+2019-09-26 17:23:49,224 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【2019-09-26 15:23:00】
+2019-09-26 17:23:49,298 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【财经要闻】，url:【http://www.cs.com.cn/xwzx/hg/】
+2019-09-26 17:23:49,318 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【2019-09-26 16:44:00】
+2019-09-26 17:23:49,348 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司新闻】，url:【http://www.cs.com.cn/ssgs/gsxw/】
+2019-09-26 17:23:49,368 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【2019-09-26 15:35:00】
+2019-09-26 17:23:49,386 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司深度】，url:【http://www.cs.com.cn/ssgs/gssd/】
+2019-09-26 17:23:49,404 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【2019-09-21 07:32:00】
+2019-09-26 17:23:49,472 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:52}] to localhost:27017 because the pool has been closed.
+2019-09-26 17:29:06,465 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 12732 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 17:29:06,479 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 17:29:15,716 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 17:29:15,858 [cluster-ClusterId{value='5d8c84eba1a42f31bcb3c508', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:53}] to localhost:27017
+2019-09-26 17:29:15,868 [cluster-ClusterId{value='5d8c84eba1a42f31bcb3c508', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=7062500}
+2019-09-26 17:29:20,835 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 15.399 seconds (JVM running for 17.488)
+2019-09-26 17:29:20,840 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 17:29:21,298 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【新三板】，url:【http://www.cs.com.cn/ssgs/ssb/】
+2019-09-26 17:29:21,696 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:54}] to localhost:27017
+2019-09-26 17:29:23,726 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【行业资讯】，url:【http://www.cs.com.cn/cj/hyzx/】
+2019-09-26 17:29:23,825 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【2019-09-26 15:23:00】
+2019-09-26 17:29:23,879 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【财经要闻】，url:【http://www.cs.com.cn/xwzx/hg/】
+2019-09-26 17:29:23,892 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【2019-09-26 16:44:00】
+2019-09-26 17:29:23,929 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【互联网金融】，url:【http://www.cs.com.cn/jg/08/】
+2019-09-26 17:29:25,595 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司新闻】，url:【http://www.cs.com.cn/ssgs/gsxw/】
+2019-09-26 17:29:25,606 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【2019-09-26 15:35:00】
+2019-09-26 17:29:25,642 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ type :【公司深度】，url:【http://www.cs.com.cn/ssgs/gssd/】
+2019-09-26 17:29:25,656 [main] INFO  com.asianwallets.task.service.cs.impl.CsServiceImpl - ============= 抓取中证网 ============ ,前次最后一条记录为：【2019-09-21 07:32:00】
+2019-09-26 17:29:25,720 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:54}] to localhost:27017 because the pool has been closed.
+2019-09-26 18:02:19,282 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 15344 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 18:02:19,324 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 18:02:27,500 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 18:02:27,638 [cluster-ClusterId{value='5d8c8cb3a1a42f3bf041a544', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:55}] to localhost:27017
+2019-09-26 18:02:27,650 [cluster-ClusterId{value='5d8c8cb3a1a42f3bf041a544', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=9138400}
+2019-09-26 18:02:32,431 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 14.234 seconds (JVM running for 16.471)
+2019-09-26 18:02:32,437 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 18:02:33,589 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:56}] to localhost:27017
+2019-09-26 18:02:33,799 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:56}] to localhost:27017 because the pool has been closed.
+2019-09-26 18:05:38,112 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Starting ISearchTaskApplicationTests on DESKTOP-3ADLK5U with PID 2716 (started by Admin in C:\Users\Admin\IdeaProjects\iSearch\asianwallet-task)
+2019-09-26 18:05:38,120 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - The following profiles are active: local
+2019-09-26 18:05:46,479 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-09-26 18:05:46,629 [cluster-ClusterId{value='5d8c8d7aa1a42f0a9c3e17d9', description='null'}-localhost:27017] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:57}] to localhost:27017
+2019-09-26 18:05:46,651 [cluster-ClusterId{value='5d8c8d7aa1a42f0a9c3e17d9', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=13214500}
+2019-09-26 18:05:50,997 [main] INFO  com.asianwallets.task.ISearchTaskApplicationTests - Started ISearchTaskApplicationTests in 13.997 seconds (JVM running for 16.123)
+2019-09-26 18:05:51,003 [main] INFO  com.asianwallets.common.config.ConfigConstantConfguration - >>>>>>>>>>>>>>>项目名称【asianwallet-task】，端口号【-1】，项目配置加载完成 <<<<<<<<<<<<<
+2019-09-26 18:05:51,984 [main] INFO  org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:58}] to localhost:27017
+2019-09-26 18:05:52,045 [main] INFO  com.asianwallets.task.service.xueqiu.impl.XueqiuServiceImpl - ============= 抓取雪球 ============ ,前次最后一条记录为：【2019-09-26 16:13:00】
+2019-09-26 18:05:52,088 [Thread-2] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:2, serverValue:58}] to localhost:27017 because the pool has been closed.
